@@ -1,0 +1,10 @@
+Blog Engine to humboldtTech root
+skin master page
+add about page
+add contact page
+add media page
+add blogs page
+
+
+create joesharepoint.humboldtechgroup.com blogengine site
+create joemetaverse.humboldttechgroup.com blogengine site

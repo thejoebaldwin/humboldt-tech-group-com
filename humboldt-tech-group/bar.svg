@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="105.29318"
+   height="18.079924"
+   id="svg2406"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="bar.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="F:\Pictures\SVG\Banner\banner_bar.png"
+   inkscape:export-xdpi="81.130402"
+   inkscape:export-ydpi="81.130402"
+   style="display:inline">
+  <defs
+     id="defs2408">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2414" />
+    <inkscape:perspective
+       id="perspective3546"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective3450" />
+    <inkscape:perspective
+       id="perspective3448"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.3978897"
+     inkscape:cx="47.006042"
+     inkscape:cy="-1.507676"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer13"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="-1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     showborder="false" />
+  <metadata
+     id="metadata2411">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="bottom"
+     transform="translate(-879.99111,-53.005272)"
+     style="display:inline">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d40000;stroke-width:2.34990215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 881.07192,59.828948 C 885.80976,59.818132 983.86379,60.05318 983.86379,60.05318 C 983.7254,64.222514 983.63786,69.835279 983.63802,69.833674 C 973.73272,69.858401 882.49066,69.72233 882.49066,69.72233 C 882.49977,68.148246 882.41753,60.053918 882.41753,60.053918"
+       id="path3341"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="F:\Pictures\SVG\Banner\banner_bar.png"
+       inkscape:export-xdpi="89.669998"
+       inkscape:export-ydpi="89.669998" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="bottom fill"
+     transform="translate(-879.99111,-53.005272)"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#009dba;stroke-width:1.65387118;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;display:inline"
+       d="M 884.20228,68.109002 L 884.12631,61.45514 L 981.64845,61.45514 L 981.51346,68.279278 L 884.20228,68.109002 z"
+       id="path3309"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="F:\Pictures\SVG\Banner\banner_bar.png"
+       inkscape:export-xdpi="89.669998"
+       inkscape:export-ydpi="89.669998" />
+  </g>
+</svg>
