@@ -2,17 +2,17 @@
 
 {% block content %}
  <div id="content" class="content">
-     <div>
+     <div> 
 <script type="text/javascript" src="swfobject.js"></script>
 		<script type="text/javascript">
-		swfobject.registerObject("myId", "9.0.0", "resources/expressInstall.swf");
+		swfobject.registerObject("myId", "9.0.0", "/views/pages/resources/expressInstall.swf");
 		</script>
 
 
   			<object id="myId" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="900" height="600">
-				<param name="movie" value="resources/HelloWorld.swf" />
+				<param name="movie" value="/views/pages/resources/HelloWorld.swf" />
         		<!--[if !IE]>-->
-				<object type="application/x-shockwave-flash" data="resources/HelloWorld.swf" width="900" height="600">
+				<object type="application/x-shockwave-flash" data="/views/pages/resources/HelloWorld.swf" width="900" height="600">
 				<!--<![endif]-->
 				<div>
 					<h1>Alternative content</h1>

@@ -49,7 +49,7 @@ class __TwigTemplate_6400a66826d0d78aa016e7cf0c4600de extends Twig_Template
               <div class='name' id='llc'><a href='/'>LLC</a></div>
 \t\t       <ul>  
 \t\t          <li><a href='/work.php'>work</a></li>
-\t\t          <li><a href='http://joesharepoint.com'>blog</a></li>
+\t\t          <li><a href='http://frankensteinosaur.us'>blog</a></li>
 \t\t          <li><a href='/contact.php'>contact</a></li>
 \t\t      </ul>  </div>
   <!-- end .grid_5 -->
